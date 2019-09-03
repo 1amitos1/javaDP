@@ -1,6 +1,5 @@
-this java project implements  a race ski/snowboard in different arenas  using a  design pattern  like  Factory method, Adapter, Bridge, Observer 
+this java project implements a race ski/snowboard in different arenas using a design pattern like Factory method, Adapter, Bridge, Observer 
 State, Proxy, clone, Decorator.
 the race is mange by Thread Pools that mange all racer in case of accident/malfunction.  the race is limited up to 20 racers.
-I implement tow arenas winter/summer 
 for graphic implementation, I use java GUI  Swing and observer pattern to communicate between racers and the location on the screen.
 using java 8.

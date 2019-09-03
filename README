@@ -2,4 +2,4 @@ this java project implements a race ski/snowboard in different arenas using a de
 State, Proxy, clone, Decorator.
 the race is mange by Thread Pools that mange all racer in case of accident/malfunction.  the race is limited up to 20 racers.
 for graphic implementation, I use java GUI  Swing and observer pattern to communicate between racers and the location on the screen.
-using java 8.
+using java 8, IntelliJ IDEA Community Edition 2018.3.4
